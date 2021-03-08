@@ -1,2 +1,2 @@
 # embedded
-Embedded projects
+Embedded projects - Content
